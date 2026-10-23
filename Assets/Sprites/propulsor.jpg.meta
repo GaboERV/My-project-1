@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 0e7d966a2e0af0f4cbca65461ca45bb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -764467894937809785
+    second: propulsor_0
+  - first:
+      213: 4943629396778192120
+    second: propulsor_1
+  - first:
+      213: -3000792729785464095
+    second: propulsor_2
+  - first:
+      213: 6670185891889494916
+    second: propulsor_3
+  - first:
+      213: 7829449567890197966
+    second: propulsor_4
+  - first:
+      213: -4185596132976630591
+    second: propulsor_5
+  - first:
+      213: 5062991488006219831
+    second: propulsor_6
+  - first:
+      213: 2534282665031535236
+    second: propulsor_7
+  - first:
+      213: -2100368287342759335
+    second: propulsor_8
+  - first:
+      213: 3664210323558490755
+    second: propulsor_9
+  - first:
+      213: -6483287464562170078
+    second: propulsor_10
+  - first:
+      213: 8785671154226831449
+    second: propulsor_11
+  - first:
+      213: 6572103876501235861
+    second: propulsor_12
+  - first:
+      213: 935272967239496375
+    second: propulsor_13
+  - first:
+      213: 1749880686111261408
+    second: propulsor_14
+  - first:
+      213: -5684585953398981358
+    second: propulsor_15
+  - first:
+      213: -4833675288751865991
+    second: propulsor_16
+  - first:
+      213: -5141168291999197989
+    second: propulsor_17
+  - first:
+      213: 6710358289188707849
+    second: propulsor_18
+  - first:
+      213: -8062067191541417271
+    second: propulsor_19
+  - first:
+      213: 13686590341485835
+    second: propulsor_20
+  - first:
+      213: -392708793611225457
+    second: propulsor_21
+  - first:
+      213: -6232561274745286608
+    second: propulsor_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: propulsor_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 473
+        width: 231
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c8a08ff701465f0800000000000000
+      internalID: -764467894937809785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 537
+        width: 168
+        height: 478
+      alignment: 9
+      pivot: {x: 0.37108302, y: 0.45091432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc84207ebc4b9440800000000000000
+      internalID: 4943629396778192120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 858
+        width: 213
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea009049ea0b56d0800000000000000
+      internalID: -3000792729785464095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_3
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 634
+        width: 228
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b35ef7ab2419c50800000000000000
+      internalID: 6670185891889494916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 524
+        width: 111
+        height: 256
+      alignment: 9
+      pivot: {x: 0.51625955, y: 0.8948078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd4ee856eac7ac60800000000000000
+      internalID: 7829449567890197966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 543
+        width: 115
+        height: 237
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.90361285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4eda84e76c9e5c0800000000000000
+      internalID: -4185596132976630591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 544
+        width: 99
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5137748, y: 0.90842694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ef67feeb534640800000000000000
+      internalID: 5062991488006219831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 537
+        width: 120
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a82a918a49b2320800000000000000
+      internalID: 2534282665031535236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 570
+        width: 83
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952707fbb2ef9d2e0800000000000000
+      internalID: -2100368287342759335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_9
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 592
+        width: 92
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382e50e10e3e9d230800000000000000
+      internalID: 3664210323558490755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 541
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2276702a66cb606a0800000000000000
+      internalID: -6483287464562170078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 726
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9502615cd59fce970800000000000000
+      internalID: 8785671154226831449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_12
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 544
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598e2d9b7adc43b50800000000000000
+      internalID: 6572103876501235861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 466
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2f554fec1cafc00800000000000000
+      internalID: 935272967239496375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 377
+        width: 35
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e28af67633d84810800000000000000
+      internalID: 1749880686111261408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 467
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d7a70913b4c11b0800000000000000
+      internalID: -5684585953398981358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 355
+        width: 94
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f7c5e4fe55becb0800000000000000
+      internalID: -4833675288751865991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 71
+        width: 307
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4d2e07da6e6a8b0800000000000000
+      internalID: -5141168291999197989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_18
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 467
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed0be9f4bff1d50800000000000000
+      internalID: 6710358289188707849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 455
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab7dc9a98cd1090800000000000000
+      internalID: -8062067191541417271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_20
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 441
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059d73a1ef903000800000000000000
+      internalID: 13686590341485835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_21
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 23
+        width: 146
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8671a0de61dc8af0800000000000000
+      internalID: -392708793611225457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propulsor_22
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 465
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03093f9ca8e7189a0800000000000000
+      internalID: -6232561274745286608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 73a3a4154c934214cab6c7cf203f60ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      propulsor_0: -764467894937809785
+      propulsor_1: 4943629396778192120
+      propulsor_10: -6483287464562170078
+      propulsor_11: 8785671154226831449
+      propulsor_12: 6572103876501235861
+      propulsor_13: 935272967239496375
+      propulsor_14: 1749880686111261408
+      propulsor_15: -5684585953398981358
+      propulsor_16: -4833675288751865991
+      propulsor_17: -5141168291999197989
+      propulsor_18: 6710358289188707849
+      propulsor_19: -8062067191541417271
+      propulsor_2: -3000792729785464095
+      propulsor_20: 13686590341485835
+      propulsor_21: -392708793611225457
+      propulsor_22: -6232561274745286608
+      propulsor_3: 6670185891889494916
+      propulsor_4: 7829449567890197966
+      propulsor_5: -4185596132976630591
+      propulsor_6: 5062991488006219831
+      propulsor_7: 2534282665031535236
+      propulsor_8: -2100368287342759335
+      propulsor_9: 3664210323558490755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
